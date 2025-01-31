@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  @apply scroll-smooth;
+}
+body {
+  font-family: "Almarai", serif;
+  color: #0a0a0a;
+}
+.hero-wrapper {
+  background-image: url("/assets/hero-bg.png");
+  background-repeat: no-repeat;
+}
+.main-container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.main-container_small {
+  @apply max-w-[1440px];
+  @apply mx-auto;
+}
+.custom-gradient {
+  background: linear-gradient(90deg, #b2647a 0%, #c1b898 50%, #7f1633 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee linear infinite;
+}
+.our-goals {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.transition-custom {
+  transition: 0.3s all ease-out;
+}

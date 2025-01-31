@@ -1,0 +1,186 @@
+{
+  "metaTitle": "Taqat: Elite Business Services For Investments And Empowerment",
+  "metaDescription": "Taqat provides diverse services in investments, tech, marketing, supply, real estate, green energy, sustainable growth and economic development.",
+  "header": {
+    "contactButton": "Contact us"
+  },
+  "hero": {
+    "content1": {
+      "heroTitle": "The Pioneers of Sustainability Projects and Supporting Humanity",
+      "heroSubTitle": "Taqat’s journey began in 2014 with the aim of supporting local entrepreneurs, and humanitarian organizations and enhancing the local economy through supporting multiple projects that meet sustainability standards and are characterized by innovation and excellence.",
+      "aboutButton": "About Us",
+      "contactButton": "Contact us"
+    },
+    "content2": {
+      "details": "At Taqat, we are driven by a set of core values that guide our actions and decisions across all of our work and activities",
+      "title": "Our Partners in Change"
+    }
+  },
+  "values": {
+    "title": "Our values",
+    "desc": "At Taqat, we are driven by a set of core values ​​that guide our actions and decisions across all our businesses and activities:",
+    "items": [
+      {
+        "title": "Integrity",
+        "content": "We adhere to the highest standards of honesty, transparency, and ethical behavior in all our endeavors."
+      },
+      {
+        "title": "Innovation",
+        "content": "We strive to innovate and implement creative solutions in all aspects of our work."
+      },
+      {
+        "title": "Excellence",
+        "content": "We aim for excellence and quality in everything we do, ensuring the best outcomes."
+      },
+      {
+        "title": "Collaboration",
+        "content": "We foster teamwork and cooperation, valuing the contributions of all stakeholders."
+      },
+      {
+        "title": "Social Responsibility",
+        "content": "We commit to enhancing social justice and supporting those in need."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our Partners",
+    "desc": "We are a network of companies that combine innovation and responsibility to support sustainability projects and promote philanthropy. Together, we work to make a positive and sustainable impact on communities around the world.",
+    "items": [
+      {
+        "title": "Tawredat Haditha for Trade & Services",
+        "description": "Tawredat helps its clients establish and simplify their supply chains, to improve their business while reducing costs. Tawredat relies on its strong expertise in the fields of procurement, logistics, customs clearance, and digital technology.",
+        "logo": "/assets/Tawridat.png"
+      },
+      {
+        "title": "Afriqat",
+        "description": "Afriqat platform seeks to achieve sustainable growth for future generations in the African continent, by focusing on supporting investment, developing trade, and creating job opportunities, through empowering companies and individuals in Africa and providing a fertile environment to achieve economic development and prosperity in various fields.",
+        "logo": "/assets/Africat.png"
+      },
+      {
+        "title": "Aurasya International",
+        "description": "Aurasya, the world’s leading provider of integrated business solutions, seeks to achieve sustainable international success for its clients in the Balkans and North Africa region. The company also acts as an international arm that provides strategic support to companies looking to implement global projects in these regions through specialized solutions that enhance growth and support sustainability.",
+        "logo": "/assets/AVRASYA.png"
+      }
+    ]
+  },
+  "programs": {
+    "title": "Our Programs",
+    "desc": "A start towards building a sustainable future and supporting humanitarian work.",
+    "details": "We offer a full range of programmes designed to support sustainability and humanitarianism. Our programmes aim to empower communities and make a positive and sustainable impact on people's lives, with a focus on innovation and collaboration to achieve our common goals.",
+    "items": [
+      {
+        "image": "/assets/projects/emdad-website.png",
+        "logo": "/assets/projects/emdad-logo.png",
+        "name": "Emdad",
+        "description": "Emdad platform specializes in providing humanitarian products to NGOs and is considered one of the pioneers in providing humanitarian aid.",
+        "details": "The platform offers a 'one-stop shop' experience for humanitarian products, relying on artificial intelligence technology to provide integrated and seamless solutions that meet customer needs efficiently and quickly.",
+        "buttonText": "Emdad Website",
+        "href": "https://www.emdadexpress.com/"
+      },
+      {
+        "image": "/assets/projects/reliefcenter-website.png",
+        "logo": "/assets/projects/reliefcenter-logo.png",
+        "name": "Relief Center",
+        "description": "ReliefCenter.com is a leading humanitarian and early warning website dedicated to supporting governmental and non-governmental organizations in relief operations and rapid response.",
+        "details": "The website focuses on leveraging advanced artificial intelligence techniques to analyze data and provide innovative solutions that allow organizations to quickly reach those affected and reduce the negative effects of crises.",
+        "buttonText": "Relief Center Website",
+        "href": "https://reliefcenter.com/"
+      },
+      {
+        "image": "/assets/projects/edamah-website.png",
+        "logo": "/assets/projects/edamah-logo.png",
+        "name": "Edamah",
+        "description": "Focus on projects that achieve financial profitability with positive social and environmental impact.",
+        "details": "Our areas of work range from renewable energies, sustainable agriculture, economic development, fisheries, and social enterprises to ensure a sustainable future for generations to come.",
+        "buttonText": "Edamah Website",
+        "href": "https://www.edamapro.com/"
+      },
+      {
+        "image": "/assets/projects/tayf-website.png",
+        "logo": "/assets/projects/tayf-logo.png",
+        "name": "Tayf",
+        "description": "Tayf Initiative is affiliated with the Qatar Charity Organization.",
+        "details": "This initiative seeks to enhance and improve the efficiency of collecting and distributing the in-kind donations process, which aims to activate the impact of international relief and sustainable development and contribute to alleviating suffering and improving living conditions in the targeted communities.",
+        "buttonText": "Tayf Website",
+        "href": "https://tayf.qa/"
+      }
+    ]
+  },
+  "goals": {
+    "title": "Our goals for Vision 2030",
+    "desc": "Together with our partners, we strive to create a sustainable and prosperous future for the targeted communities.",
+    "details": "We achieve all this by supporting investment and projects that enhance economic growth in the fields of agriculture, industry, and trade. We aim to raise living standards and self-reliance rates."
+  },
+  "projects": {
+    "title": "Projects",
+    "desc": "We focus on implementing innovative and sustainable projects that aim to improve the lives of individuals aQnd promote community development. We endeavour to achieve a tangible positive impact that reflects our values and vision to support humanity.",
+    "numberOfPrjs": "8",
+    "word": "Projects",
+    "items": [
+      {
+        "name": "Pearl Pixels",
+        "description": "We are a specialized media and marketing agency, offering multiple services including advertising campaigns, event management, and digital marketing, helping our clients reach their target more effectively through implementing our creative strategies.",
+        "logo": "/assets/logos/pp.png"
+      },
+      {
+        "name": "OkSouq",
+        "description": "We are an e-commerce platform that offers a wide range of products, such as electronics, personal accessories, perfumes, and watches, to provide an easy and convenient user shopping experience.",
+        "logo": "/assets/logos/Oksouq.png"
+      },
+      {
+        "name": "Taqat for Technology",
+        "description": "We provide technical services and technological solutions including software development, automation, and innovative digital solutions to support companies in digital transformation and increasing efficiency.",
+        "logo": "/assets/logos/taqat-1.png"
+      },
+      {
+        "name": "Taqat for Real Estate Development",
+        "description": "We focus mainly on real estate development, as our projects include the development of residential and commercial properties, with an emphasis on providing innovative designs that meet market needs and achieve the highest quality standards.",
+        "logo": "/assets/logos/taqat-2.png"
+      },
+      {
+        "name": "Taqat for Real Estate Brokerage",
+        "description": "As a real estate brokerage business, we focus on providing professional services including buying, selling, and renting real estate, while providing real estate consultations that help our clients make better investment decisions.",
+        "logo": "/assets/logos/taqat-3.png"
+      },
+      {
+        "name": "Taqat for Real Estate Maintenance",
+        "description": "We specialize in providing property maintenance services, including preventive maintenance and general repairs to residential and commercial buildings, helping our clients maintain the value of their properties.",
+        "logo": "/assets/logos/taqat-4.png"
+      },
+      {
+        "name": "Taqat for HR Services",
+        "description": "We specialize in providing human resources services, such as recruitment, talent management, and human resources consulting, helping companies improve recruitment processes and develop work teams.",
+        "logo": "/assets/logos/taqat-5.png"
+      },
+      {
+        "name": "Taqat for Customer Service Solutions",
+        "description": "We focus on providing integrated solutions to serve our customers, including managing call centers, improving customer experience, and providing consultations to develop communication mechanisms and customer service for companies.",
+        "logo": "/assets/logos/taqat-6.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "desc": "Get in touch with us and start your journey to impact",
+    "details": "We are here to connect, collaborate and provide support. If you have questions, feedback or concerns about our programmes and projects, we'd love to hear from you. Reach out to us through the available channels, and let's work together to make a positive impact.",
+    "info": {
+      "location": {
+        "title": "Main building",
+        "desc": "Eighth Floor, Building: 29 Suhaim Bin Hamad Street,<br/> Street: 901, Ring Road, Al Sadd - Area: 38<br/> Doha, Qatar"
+      },
+      "email": {
+        "title": "Email address",
+        "desc": "info@taqat.qa"
+      },
+      "details": {
+        "title": "Phone number",
+        "phone": "+074 - 33620133",
+        "workDays": "Sunday - Thursday: 7:30am - 3:30pm",
+        "weekends": "Friday/Saturday: Closed (public holiday)"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Copyright &copy; 2025 - All rights <br /> reserved."
+  }
+}
