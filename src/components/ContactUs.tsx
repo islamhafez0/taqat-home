@@ -76,7 +76,8 @@ const ContactUs = () => {
               >
                 <a
                   href={`tel:${t("contact.info.details.phone")}`}
-                  className="hover:text-blue-600"
+                  className="hover:text-blue-600 w-fit"
+                  dir="ltr"
                 >
                   {t("contact.info.details.phone")}
                 </a>
