@@ -21,7 +21,7 @@ const Footer = () => {
     {
       icon: <Instagram className="w-8 h-8" />,
       label: "Instgram",
-      href: "https://www.instagram.com/taqat4business",
+      href: "https://www.instagram.com/taqatqatar",
     },
   ];
   const { t } = useTranslation();
